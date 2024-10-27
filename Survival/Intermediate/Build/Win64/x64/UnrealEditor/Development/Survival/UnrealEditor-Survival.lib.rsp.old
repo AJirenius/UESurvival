@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Survival.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\SurvivalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\Survival.init.gen.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\SurvivalCharacter.gen.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\SurvivalGameMode.gen.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\Survival.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\SurvivalCharacter.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\SurvivalGameMode.cpp.obj"
+"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\Default.rc2.res"
+/OUT:"C:\Projects\Survival\Survival\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survival\UnrealEditor-Survival.lib"
